@@ -1,0 +1,135 @@
+
+    /*Style for the main container*/
+    .container{
+      width:100%;
+      background-image:url("images/bg.jpg");
+    }
+    /*Style for the container1*/
+    .container1{
+      width:100%;
+    }
+    /*style for the container2*/
+    .container2{
+      width:100%;
+    }
+    /*style for the contianer3*/
+    .container3{
+      width:100%;
+    }
+    /*style for the container4*/
+    .container4{
+      width:100%;
+      background-color:#D3D3D3;
+      opacity: 0.8;
+    }
+     /*style for the navbar*/
+    .navbar-nav > li{
+      padding-left:10px;
+      padding-right:10px;
+      width:175px;
+      background-color:white;
+      display:block;
+      text-align: center;
+      margin:0;
+    }
+    /*hover effects on nav bar*/
+    .navbar-nav li a:hover{
+      background-color: #D3D3D3;
+      color:#E86100;
+    }
+    
+    /*styling for the image in container1*/
+    .image{
+     border: 8px solid #ddd;
+     border-radius: 4px;
+     padding: 5px;
+     
+   }
+   /*Mouse hover effect on the image*/
+   .image:hover{
+     transform: rotate(-3deg);
+   }
+
+  /*h5 styling in the body tag*/
+  body h5{
+      font-family:Ropa Sans;
+    font-size:23px;
+  }
+  /*full body font styling*/
+  body{
+    font-family:'sans-serif';
+  }
+  /*button styling*/
+  .btn{
+    font-family: Ropa Sans;
+    font-size: 13px;
+    background-color:#D3D3D3;
+    text-align:left;
+    width:160px;
+    padding:21px 16px;
+    border-radius:8px;
+  }
+  /*button styling in the card*/
+  .btn1{
+    border-radius: 12px;
+  }
+  
+  /*span1 styling in the card*/
+  .span1{
+    color:#E86100;
+    font-size:45px;
+    font-family: sans-serif;
+    padding-left:190px;
+
+  }
+  /*span2 styling in the card*/
+  .span2{
+    padding-left:90px;
+    color:#E86100;
+    font-size:45px;
+    font-family: sans-serif;
+  }
+  /*span3 styling in the card*/
+  .span3{
+     padding-left:100px;
+    color:#E86100;
+    font-size:45px;
+    font-family: sans-serif;
+
+  }
+  
+  /*button hover styling*/ 
+  .btn1:hover {
+    color: #E86100;
+    //you can add more styles to be applied on hover
+  }
+  .btn:hover{
+    color:#E86100;
+  }
+  /*class italic styling*/
+  .italic{
+    font-family:'cookie';
+    font-size:24px;
+    font-style:bold;
+  }
+  /*input text box styling*/
+  input[type="text"]:hover{
+    outline: none;
+    box-shadow: 0px 0px 5px #E86100;
+    border:1px solid #E86100;
+    border-radius:0;
+
+  } 
+  /*card header styling*/
+  .card-header{
+    font-style:italic ;
+    font-size:20px;
+    background-color: white;
+  }
+  
+   
+ /*image styling */
+.image1:hover{
+    opacity:0.3;
+  }
+  
