@@ -1,4 +1,5 @@
 
+  
     /*Style for the main container*/
     .container{
       width:100%;
@@ -18,7 +19,7 @@
     }
     /*style for the container4*/
     .container4{
-      width:100%;
+      width:97%;
       background-color:#D3D3D3;
       opacity: 0.8;
     }
@@ -31,6 +32,7 @@
       display:block;
       text-align: center;
       margin:0;
+      font-size:17px;
     }
     /*hover effects on nav bar*/
     .navbar-nav li a:hover{
@@ -43,6 +45,7 @@
      border: 8px solid #ddd;
      border-radius: 4px;
      padding: 5px;
+
      
    }
    /*Mouse hover effect on the image*/
@@ -58,11 +61,13 @@
   /*full body font styling*/
   body{
     font-family:'sans-serif';
+    font-size:13px;
   }
   /*button styling*/
   .btn{
-    font-family: Ropa Sans;
-    font-size: 13px;
+    font-family: 'Saira Extra Condensed', sans-serif;
+
+    font-size: 18px;
     background-color:#D3D3D3;
     text-align:left;
     width:160px;
@@ -71,7 +76,13 @@
   }
   /*button styling in the card*/
   .btn1{
-    border-radius: 12px;
+    border-radius: 18px;
+    width:100px;
+    height:40px;
+  }
+  .btn-text{
+    font-family: 'Parisienne', cursive;
+
   }
   
   /*span1 styling in the card*/
@@ -108,7 +119,7 @@
   }
   /*class italic styling*/
   .italic{
-    font-family:'cookie';
+    font-family: 'Oleo Script', cursive;
     font-size:24px;
     font-style:bold;
   }
@@ -122,14 +133,15 @@
   } 
   /*card header styling*/
   .card-header{
-    font-style:italic ;
-    font-size:20px;
+    font-family:'Yesteryear', cursive;
+
+
+    font-size:23px;
     background-color: white;
   }
   .d:hover{
     background-color:#D3D3D3;
   }
-  
   
    
  /*image styling */
