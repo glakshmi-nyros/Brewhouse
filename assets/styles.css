@@ -1,5 +1,6 @@
 
   
+
     /*Style for the main container*/
     .container{
       width:100%;
@@ -88,24 +89,32 @@
   /*span1 styling in the card*/
   .span1{
     color:#E86100;
-    font-size:45px;
-    font-family: sans-serif;
+    font-size:40px;
     padding-left:190px;
+    font-family: 'Concert One', cursive;
+
+
 
   }
   /*span2 styling in the card*/
   .span2{
-    padding-left:90px;
+    padding-left:100px;
     color:#E86100;
-    font-size:45px;
-    font-family: sans-serif;
+    font-size:40px;
+    font-family: 'Concert One', cursive;
+
+
+    
   }
   /*span3 styling in the card*/
   .span3{
-     padding-left:100px;
+     padding-left:90px;
     color:#E86100;
-    font-size:45px;
-    font-family: sans-serif;
+    font-size:40px;
+    font-family: 'Concert One', cursive;
+
+
+    
 
   }
   
