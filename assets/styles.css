@@ -126,6 +126,10 @@
     font-size:20px;
     background-color: white;
   }
+  .d:hover{
+    background-color:#D3D3D3;
+  }
+  
   
    
  /*image styling */
